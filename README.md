@@ -27,12 +27,12 @@ Desenvolvedora Full Stack & Backend. Na prática: projeto arquiteturas robustas,
 
 ---
 
-### ⚡ Fatos Rápidos & Humor Dev
+### ⚡ 🚀 A Era do "Sem Complicação"
 
-* 🚀 **Projetos em foco:** Engenharia de software B2B, automações de processos e sistemas de gestão.
-* 🔍 **Atualmente aprofundando em:** Arquiteturas backend escaláveis e microsserviços.
-* 💡 **Superpoder:** Conseguir traduzir problemas de negócios do mundo real para código limpo e funcional.
-* 💬 **Pergunte-me sobre:** Por que o `print("aqui 1")` salva vidas durante o debug! 😂
+* 🎯 **Foco em Soluções Reais:** Desenvolvimento de software direto ao ponto para ecossistemas **B2B e B2C**.
+* ⚙️ **Arquitetura & Engenharia:** APIs RESTful à modelagem de banco de dados e deploy.
+* 💡 **Visão Prática:** Criação de plataformas digitais, automações comerciais e portais de gestão, utilidades criativas sem burocracia.
+* 🛠️ **Mão na Massa:** Se tem um fluxo travado ou um processo manual, eu transformo em solução prática.
 
 ---
 
