@@ -42,6 +42,9 @@ Desenvolvedora Full Stack & Backend. Na prática: projeto arquiteturas robustas,
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=LVNcoelho&theme=dark&hide_border=true)](https://git.io/streak-stats)
 ---
+![YOLO Achievement](https://img.shields.io/badge/GitHub_Achievement-YOLO-FF70A6?style=for-the-badge&logo=github&logoColor=white)
+
+> *“You want it? You merge it.”* — Badge **YOLO** conquistada por gerenciar e subir código diretamente para a branch principal no projeto **B2B-SaaS-Lead-Scoring-System**. 🚀
 
 ### 📫 Conecte-se comigo!
 
