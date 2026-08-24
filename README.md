@@ -2,7 +2,7 @@
 
 > *"Transformando café em código, lógica em soluções e ideias em sistemas que funcionam no mundo real."* ☕✨
 
-Desenvolvedora Full Stack & Backend apaixonada por construir arquiteturas sólidas, APIs eficientes e automações inteligentes. Sempre pronta para encarar um bug cabeludo e transformar requisitos complexos em software simples de usar.
+Desenvolvedora Full Stack & Backend. Na prática: projeto arquiteturas robustas, otimizo fluxos de dados e crio software funcional do banco ao front-end — sem complicação e com foco em resolver problemas do mundo real.
 
 ---
 
