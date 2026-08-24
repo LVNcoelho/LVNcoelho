@@ -1,4 +1,4 @@
-# Olá, mundo! Sou a Pâmela Coelho 👋 
+# println!("Hello, World! Sou a Pâmela Coelho!");👋 
 
 > *"Transformando café em código, lógica em soluções e ideias em sistemas que funcionam no mundo real."* ☕✨
 
@@ -36,13 +36,13 @@ Desenvolvedora Full Stack & Backend. Na prática: projeto arquiteturas robustas,
 
 ---
 
+
+
 ### 📊 Estatísticas do GitHub
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LVNcoelho&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LVNcoelho&layout=compact&theme=dark&hide=html,css"/>
-</div>
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=LVNcoelho&show_icons=true&theme=dark&include_all_commits=true&count_private=true)
 
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=LVNcoelho&layout=compact&theme=dark&hide=html,css)
 ---
 
 ### 📫 Conecte-se comigo!
