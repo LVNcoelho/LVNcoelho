@@ -40,9 +40,7 @@ Desenvolvedora Full Stack & Backend. Na prática: projeto arquiteturas robustas,
 
 ### 📊 Estatísticas do GitHub
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=LVNcoelho&show_icons=true&theme=dark&include_all_commits=true&count_private=true)
-
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=LVNcoelho&layout=compact&theme=dark&hide=html,css)
+[![GitHub Streak](https://streak-stats.demolab.com?user=LVNcoelho&theme=dark&hide_border=true)](https://git.io/streak-stats)
 ---
 
 ### 📫 Conecte-se comigo!
